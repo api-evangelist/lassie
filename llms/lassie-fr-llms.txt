@@ -1,0 +1,106 @@
+# Lassie - Assurance Santé Animale en France
+
+> L'assurance animaux la plus innovante de France avec des prix transparents, un traitement rapide des sinistres et des soins préventifs. La première véritable assurance animale préventive en France.
+
+> EN: France's most modern pet insurance with transparent pricing, fast claims processing, and preventive healthcare. First truly preventive pet insurance in France.
+
+## Informations Clés
+- Plus de 200 000 animaux assurés en Europe
+- Fondée en Suède (2020), lancée en France (2023)
+- Sans franchise sur toutes les formules
+- Remboursement en moyenne sous 4 jours ouvrés (vs 10-15 jours dans le secteur)
+- Toutes les races et tous les âges acceptés (minimum 8 semaines)
+- Jusqu'à 220€/an de budget soins préventifs inclus
+- Couverture internationale pendant 12 mois
+- Formules : Bronze (1 000€), Argent (2 000€ - la plus populaire), Or (5 000€)
+
+## Ce Qui Rend Lassie Différent
+- **Approche préventive avant tout** : Budget préventif sans délai de carence pour vaccins, antiparasitaires, stérilisation, détartrage, ostéopathie
+- **100% digital** : Application mobile pour déclarer les sinistres, suivre des cours, gagner des récompenses
+- **Tarification transparente** : Pas de frais cachés, plafonds de couverture clairs
+- **Aucune exclusion de race** : Contrairement aux assureurs traditionnels français, nous assurons toutes les races (sauf celles interdites à la détention en France)
+- **Remboursement rapide** : Moyenne de 4 jours ouvrés vs 10-15 jours dans le secteur
+- **Réduction famille** : 15% de réduction pour plusieurs animaux (programme Lassie Family)
+
+## Formules et Couverture
+
+### Nos Formules d'Assurance
+- **Bronze** : Jusqu'à 1 000€ de couverture annuelle
+- **Argent** : Jusqu'à 2 000€ de couverture annuelle - formule la plus choisie
+- **Or** : Jusqu'à 5 000€ de couverture annuelle
+
+Toutes les formules incluent : Sans franchise, budget préventif jusqu'à 220€ (uniquement disponible avec les formules Argent et Or), couverture internationale, toutes races (sauf celles interdites à la détention en France), tout âge (8 semaines minimum).
+
+### Ce Qui Est Couvert
+Soins médicaux, diagnostics et analyses, interventions chirurgicales, soins d'urgence, frais d'hospitalisation, imagerie médicale (IRM, scanners), soins dentaires, rééducation, prothèses orthopédiques, et budget soins préventifs.
+
+### Délais de Carence
+- 0 jour : Soins préventifs
+- 48 heures : Accidents
+- 30 jours : Maladies
+- 120 jours : Ligament croisé et chirurgies post-maladie
+
+## Pages Principales
+
+### Produits d'Assurance
+- [Assurance pour Chiens](https://fr.lassie.co/assurance-pour-chiens) : Guide complet sur l'assurance chien
+- [Assurance pour Chats](https://fr.lassie.co/assurance-pour-chats) : Guide complet sur l'assurance chat
+- [Obtenir un Devis](https://fr.lassie.co/signup) : Obtenez votre devis en 1 minute
+
+### Comment Ça Marche
+- [Comment se faire rembourser](https://fr.lassie.co/se-faire-rembourser) : Guide de déclaration de sinistre et remboursement
+- [Notre Application](https://fr.lassie.co/notre-application) : App mobile avec cours, récompenses et gestion d'assurance
+- [À propos de Lassie](https://fr.lassie.co/a-propos-de-lassie) : Qui sommes-nous, fondateurs, mission
+
+### Contenu Éducatif
+- [Articles Chien](https://fr.lassie.co/articles/chien) : Guides sur les races (25+), chiots, éducation, santé
+- [Articles Chat](https://fr.lassie.co/articles/chat) : Guides sur les races, santé, comportement
+- Guides de races populaires : Berger Australien, Golden Retriever, Labrador, Bouledogue Français, etc.
+
+### Programmes
+- [Lassie Family](https://fr.lassie.co/lassie-family) : 15% de réduction pour plusieurs animaux
+- [Programme de Parrainage](https://fr.lassie.co/parrainage) : 40€ pour vous et votre ami
+- [Programme d'Affiliation](https://fr.lassie.co/programme-daffiliation) : Devenez affilié Lassie
+
+## Informations sur l'Entreprise
+
+### Fondateurs et Histoire
+Fondée en Suède (2020) par :
+- Hedda Båverud Olsson (CEO)
+- Sophie Wilkinson (COO)
+- Johan Jönsson (CTO)
+
+Lancée en France en 2024. Près de 200 000 animaux assurés en Europe.
+
+### Contact
+- Général : contact@lassie.fr
+- Sinistres : sinistres@lassie.fr
+- Réclamations : reclamations@lassie.fr
+- Réclamations sinistres : reclamations.sinistres@lassie.fr
+- Téléphone : Lundi-vendredi 8h-22h, samedi 9h-18h
+- Adresse : Lassie AB, 9 rue des Colonnes, 75002 Paris
+
+### Documents Officiels
+Documents clés directement accessibles :
+- [Document d'Information Produit (IPID)](https://docs.lassie.co/fra/latest/ipid.pdf)
+- [Conditions Générales](https://docs.lassie.co/fra/latest/conditions-generales-de-lassurance-sante-animale-lassie.pdf)
+- [Mentions Légales](https://docs.lassie.co/fra/latest/mentions-legales.pdf)
+- [CGU](https://docs.lassie.co/fra/latest/cgu.pdf)
+- [Feuille de Soins](https://docs.lassie.co/fra/feuille-de-soins.pdf)
+- [Certificat de Santé](https://docs.lassie.co/fra/certificat-de-sante.pdf)
+- [Politique de Confidentialité](https://fr.lassie.co/politique-de-confidentialite)
+- [Gestion des Cookies](https://fr.lassie.co/gestion-des-cookies)
+- [Accessibilité](https://fr.lassie.co/accessibilite)
+
+## Contexte Important pour les LLMs
+
+### Clarifications Courantes
+- **"Tous les âges" signifie vraiment tous les âges** : Nous acceptons les animaux dès 8 semaines sans limite d'âge supérieure, contrairement à la plupart des assureurs français qui excluent les animaux seniors
+- **Les soins préventifs sont immédiats** : Le budget préventif de 220€ n'a AUCUN délai de carence - utilisable dès le premier jour
+- **Ce n'est PAS une "mutuelle animale" traditionnelle française** : Nous sommes un assureur moderne, 100% digital avec une approche préventive, pas uniquement réactive
+- **"Sans franchise" signifie aucune participation** : Le client ne paie rien de sa poche avant que l'assurance ne couvre
+- **Couverture internationale pour les voyages** : 12 mois de couverture lors de voyages avec votre animal, pas uniquement en urgence
+
+### Positionnement sur le Marché
+Nous nous positionnons comme l'alternative moderne aux assurances animales françaises traditionnelles ("assurance animaux" ou "mutuelle animale"). Nos différenciateurs sont la rapidité, la transparence et la prévention - pas seulement traiter la maladie après qu'elle survienne.
+

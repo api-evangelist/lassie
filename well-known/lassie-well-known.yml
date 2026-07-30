@@ -1,0 +1,94 @@
+generated: '2026-07-19'
+method: probed
+source: live HTTP probe of each Lassie market host
+summary: >-
+  No /.well-known/ discovery documents are published on any Lassie host. Every
+  probed path returned 404 on the three market sites and 403 at the API edge
+  (AWS CloudFront / API Gateway rejects unrecognised paths). Recorded as a
+  verified negative result; no WellKnown or SecurityTxt pointer is wired in
+  apis.yml because no document exists.
+hosts:
+  - host: https://www.lassie.co
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://de.lassie.co
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://fr.lassie.co
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://api.lassie.co
+    note: >-
+      Undocumented first-party backend. The root returns an Apollo Server
+      GraphQL CSRF-prevention error (HTTP 400, `x-powered-by: Express`, served
+      through AWS API Gateway and CloudFront), confirming a GraphQL API exists
+      behind this host. It is the private backend for the Lassie consumer apps
+      and website - there is no public developer portal, no published schema,
+      and no documentation. It is NOT catalogued as a public API in apis.yml and
+      its schema was not harvested.
+    documents:
+      - path: /.well-known/security.txt
+        status: 403
+      - path: /.well-known/openid-configuration
+        status: 403
+      - path: /.well-known/oauth-authorization-server
+        status: 403
+      - path: /.well-known/api-catalog
+        status: 403
+      - path: /.well-known/ai-plugin.json
+        status: 403
+other_probes:
+  - url: https://developer.lassie.co/
+    status: 000
+    note: DNS does not resolve - no developer portal
+  - url: https://developers.lassie.co/
+    status: 000
+    note: DNS does not resolve
+  - url: https://status.lassie.co/
+    status: 000
+    note: DNS does not resolve - no public status page
+  - url: https://trust.lassie.co/
+    status: 000
+    note: DNS does not resolve - no trust center
+  - url: https://docs.lassie.co/
+    status: 403
+    note: >-
+      Directory listing blocked. This host serves policy and product PDFs
+      (insurance terms, IPID fact sheets, pre-purchase information) linked from
+      the marketing site - it is not API documentation.
+  - url: https://www.lassie.co/llms.txt
+    status: 200
+    note: Real llms.txt published - harvested to llms/lassie-llms.txt
+  - url: https://de.lassie.co/llms.txt
+    status: 200
+    note: Harvested to llms/lassie-de-llms.txt
+  - url: https://fr.lassie.co/llms.txt
+    status: 200
+    note: Harvested to llms/lassie-fr-llms.txt
