@@ -1,21 +1,54 @@
 aid: lassie
 name: Lassie
-description: Lassie is a company surfaced as a portfolio company of a16z, balderton-capital and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Lassie is a Swedish insurtech that sells preventive digital pet insurance for dogs and cats.
+  Founded in Stockholm in 2020, the company pairs veterinary-care cover with an app-based
+  prevention programme: owners take courses designed by animal experts and earn up to SEK 500 a
+  year off their premium. Cover includes unlimited digital vet consultations through FirstVet,
+  24-hour claims handling, direct settlement with clinics, no breed or age restrictions and no
+  lock-in period. Lassie AB is an insurance intermediary supervised by Finansinspektionen under
+  the Swedish Insurance Distribution Act (2018:1219); policies are underwritten by Dina
+  Forsakring AB. The company operates in Sweden, Germany and France with 100+ staff and more than
+  one million insured animals, and is backed by a16z and Balderton Capital. Lassie publishes no
+  public developer API - its GraphQL backend at api.lassie.co is private to its own apps - but it
+  does publish a per-market llms.txt, making it an early example of a consumer insurer building an
+  agent-readable surface without an API programme.
 url: https://raw.githubusercontent.com/api-evangelist/lassie/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.lassie.co/images/hero-image-og.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - a16z
 - balderton-capital
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profile
+x-tier-reason: enriched-no-public-api
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Insurance
+- Insurtech
+- Pet Insurance
+- Pets
+- Veterinary
+- Consumer
+- Sweden
+- Germany
+- France
+- Financial Services
+- Mobile Application
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +58,54 @@ maintainers:
 common:
 - type: Website
   url: https://www.lassie.co/
+- type: About
+  url: https://www.lassie.co/om-oss
+- type: LLMsTxt
+  name: llms.txt (Sweden)
+  url: llms/lassie-llms.txt
+- type: LLMsTxt
+  name: llms.txt (Germany)
+  url: llms/lassie-de-llms.txt
+- type: LLMsTxt
+  name: llms.txt (France)
+  url: llms/lassie-fr-llms.txt
+- type: HelpCenter
+  url: https://www.lassie.co/faq
+- type: Support
+  url: https://www.lassie.co/kontakta-oss
+- type: Pricing
+  url: https://www.lassie.co/hundforsakring-pris
+- type: SignUp
+  url: https://www.lassie.co/en/signup
+- type: TermsOfService
+  url: https://www.lassie.co/villkor
+- type: PrivacyPolicy
+  url: https://www.lassie.co/integritetspolicy
+- type: CookiePolicy
+  url: https://www.lassie.co/cookiepolicy
+- type: Accessibility
+  url: https://www.lassie.co/en/accessibility
+- type: Whistleblowing
+  url: https://www.lassie.co/en/whistleblowing
+- type: Conformance
+  url: conformance/lassie-conformance.yml
+- type: Compliance
+  url: conformance/lassie-conformance.yml
+- type: DomainSecurity
+  url: security/lassie-domain-security.yml
+- type: Application
+  name: Lassie for iOS
+  url: https://apps.apple.com/se/app/lassie/id1533808157
+- type: LinkedIn
+  url: https://www.linkedin.com/company/lassieco/
+- type: Instagram
+  url: https://www.instagram.com/lassie_se/
+- type: YouTube
+  url: https://www.youtube.com/channel/UCBS4ArF2BlR2TixpopcOrnQ
+- type: Facebook
+  url: https://www.facebook.com/Lassie.Sweden
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
