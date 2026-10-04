@@ -58,8 +58,8 @@ tags:
 - Sweden
 - Germany
 - France
-- Financial-Services
-- Mobile Applications
+- Financial Services
+- Mobile App
 tags_raw:
 - Company
 - Insurance
@@ -73,6 +73,8 @@ tags_raw:
 - France
 - Financial Services
 - Mobile Application
+- Mobile Applications
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
