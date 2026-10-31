@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lassie is a company surfaced as a portfolio company of a16z, balderton-capital and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Lassie is a Swedish insurtech that sells preventive digital pet insurance for dogs and cats. Founded in Stockholm in 2020, the company pairs veterinary-care cover with an app-based prevention programme: owners take courses designed by animal experts and earn up to SEK 500 a year off their premium. Cover includes unlimited digital vet consultations through FirstVet, 24-hour claims handling, direct settlement with clinics, no breed or age restrictions and no lock-in period. Lassie AB is an insurance intermediary supervised by Finansinspektionen under the Swedish Insurance Distribution Act (2018:1219); policies are underwritten by Dina Forsakring AB. The company operates in Sweden, Germany and France with 100+ staff and more than one million insured animals, and is backed by a16z and Balderton Capital. Lassie publishes no public developer API - its GraphQL backend at api.lassie.co is private to its own apps - but it does publish a per-market llms.txt, making it an early example of a consumer insurer building an agent-readable surface without an API programme.
 
-Backed by: a16z, balderton-capital — https://www.lassie.co/
+**Areas:** Company · Insurance · Insurtech · Pet Insurance · Pets · Veterinary · Consumer · Sweden · Germany · France · Financial Services · Mobile App
+
+## Lassie on APIs.io
+
+Everything profiled for Lassie is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lassie/](https://apis.io/providers/lassie/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lassie Domain Security](https://apis.io/security/lassie/lassie-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.lassie.co/)
+- [Pricing](https://www.lassie.co/hundforsakring-pris)
+- [Sign up](https://www.lassie.co/en/signup)
+- [Support](https://www.lassie.co/kontakta-oss)
+- [Terms of service](https://www.lassie.co/villkor)
+- [Privacy policy](https://www.lassie.co/integritetspolicy)
+
+## API Evangelist rating
+
+**Kin Score 20.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 52.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 27.2** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lassie/](https://apis.io/providers/lassie/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Lassie: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lassie/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
